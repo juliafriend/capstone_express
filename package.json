@@ -19,7 +19,9 @@
   "homepage": "https://github.com/juliafriend/capstone_express#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
     "express": "^4.18.1",
+    "method-override": "^3.0.0",
     "mongoose": "^6.6.1"
   }
 }
